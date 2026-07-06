@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src=' client/src/gif/appgif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[client/src/gif/appgif.gif](https://imgur.com/a/eiq5qb9)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap GIF tool here
 
